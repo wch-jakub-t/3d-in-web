@@ -1,0 +1,12 @@
+body{
+    background-color: #afacac;
+    display: flex;
+    align-items: center;
+    justify-content: center;
+    height: 100vh;
+}
+
+iframe{
+    width: 90vw;
+    height: 90vh;
+}
